@@ -44,7 +44,7 @@ abstract class EmfDetector {
 
                                 val sumOfSquares: Float = (xValue * xValue) + (yValue * yValue) + (zValue * zValue)
                                 emfValue = sqrt(sumOfSquares).roundToInt().toString() + " μT"
-                                returnEmfValue(EmfStatus.SUCCESS,sumOfSquares,EmfUnit.μT)
+                                returnEmfValue(EmfStatus.SUCCESS,sqrt(sumOfSquares),EmfUnit.μT)
                                 sensorManager.unregisterListener(this)
                             }else{
                                 returnEmfValue(EmfStatus.FAILURE,0.0F,EmfUnit.μT)
