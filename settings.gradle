@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':emflibrary'
 rootProject.name='EMF'
