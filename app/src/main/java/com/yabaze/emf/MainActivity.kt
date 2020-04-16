@@ -11,9 +11,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
-
     var emfValue: Float = 0F
-    var unit: EmfUnit? = null
 
     val emfDetector = object : EmfDetector() {
 
