@@ -3,7 +3,7 @@ Android Electro Magnetic Field Detector Library
 
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Sdk](https://img.shields.io/badge/sdk-16%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=16)
-
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6IlNlbGZIaXRsZXIiLCJyZXBvMSI6IkVNRi1EZXRlY3RvciIsImluY2x1ZGVMaW50IjpmYWxzZSwiYXV0aG9ySWQiOjIyOTMwLCJpYXQiOjE2MDA4MDAyNjJ9.pXRbofAHV09wL-7VGYDqjVOgL7LvKvUwXIZcmUjqI_U)](https://www.deepcode.ai/app/gh/SelfHitler/EMF-Detector/_/dashboard?utm_content=gh%2FSelfHitler%2FEMF-Detector)
 
 
 How To
